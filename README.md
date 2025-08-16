@@ -17,7 +17,7 @@ Required columns:
 - `label`: integer label (0/1 for binary; 0..K-1 for multi-class)
 
 Optional:
-- `group`: subgroup string (e.g., `women`, `immigrants`) for fairness metrics
+- `group`: subgroup string (e.g., `women`) for fairness metrics
 
 **Example**
 ```csv
