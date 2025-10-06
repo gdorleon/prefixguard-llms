@@ -1,9 +1,9 @@
 
-## PrefixGuard LLMs: Efficient Detection of Hate Speech and Sexism
+## Efficient Detection of Hate Speech and Sexism
 
-This repository contains the reference implementation for the paper **PrefixGuard LLMs: Efficient Detection of Hate Speech and Sexism**.  
+This repository contains the reference implementation for the paper on **Efficient Detection of Hate Speech and Sexism**.  
 
-PrefixGuard uses **prefix tuning** (PEFT) to adapt a **frozen** Large Language Model (LLM) backbone for abusive language detection with *minimal trainable parameters*.  
+The proposed method uses **prefix tuning** (PEFT) to adapt a **frozen** Large Language Model (LLM) backbone for abusive language detection with *minimal trainable parameters*.  
 It supports both encoder-style backbones (BERT, RoBERTa) and decoder-style backbones (LLaMA, Llama 2).
 
 ---
@@ -176,7 +176,7 @@ If you use this code, please cite our paper:
 
 ```bibtex
 @inproceedings{..,
-  title={PrefixGuard LLMs: Efficient Detection of Hate Speech and Sexism},
+  title={Efficient Detection of Hate Speech and Sexism},
   author={...},
   booktitle={...},
   year={2025}
