@@ -178,7 +178,7 @@ If you use this code, please cite our paper:
 @inproceedings{..,
   title={Efficient Detection of Hate Speech and Sexism},
   author={...},
-  booktitle={...},
+  booktitle={Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL 2025)},
   year={2025}
 }
 ```
