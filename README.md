@@ -1,4 +1,5 @@
 
+## Read the paper: src/prefixguard/PrefixGuard LLMs - Hate Speech and Sexism.pdf
 ## Efficient Detection of Hate Speech and Sexism
 
 This repository contains the reference implementation for the paper on **Efficient Detection of Hate Speech and Sexism**.  
