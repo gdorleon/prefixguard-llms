@@ -1,5 +1,5 @@
 
-### Read the pdf: [PrefixGuard LLMs: Hate Speech and Sexism](src/prefixguard/PrefixGuard%20LLMs%20-%20Hate%20Speech%20and%20Sexism.pdf)
+## Read the PDF: [PrefixGuard LLMs: Hate Speech and Sexism.pdf](src/prefixguard/PrefixGuard%20LLMs%20-%20Hate%20Speech%20and%20Sexism.pdf)
 
 ## Efficient Detection of Hate Speech and Sexism
 
